@@ -1,0 +1,47 @@
+﻿/*<meta />*/
+
+p.MyStyle
+{
+	font-family: Arial;
+	font-size: 12pt;
+	margin: 0px;
+}
+
+img
+{
+	border: none;
+}
+
+a.Popup
+{
+	
+}
+
+p
+{
+	color: #ff0000;
+}
+
+p.note
+{
+     color: #616E14;
+     border: solid 1px #BFD62F;
+     background-color: #DAE691;
+     -moz-border-radius: 6px;
+     -webkit-border-radius: 6px;
+     border-radius: 6px;
+     padding: 14px 20px;
+     mc-auto-number-format: '{b}Note: {/b}';
+}
+
+div.note
+{
+     color: #616E14;
+     border: solid 1px #BFD62F;
+     background-color: #DAE691;
+     -moz-border-radius: 6px;
+     -webkit-border-radius: 6px;
+     border-radius: 6px;
+     padding: 14px 20px;
+     mc-auto-number-format: '{b}Note: {/b}';
+}

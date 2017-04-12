@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="2" MadCap:lastHeight="165" MadCap:lastWidth="752">
+    <head>
+    </head>
+    <body>
+        <p class="autonumber" MadCap:autonum="0.1. ">test</p>
+        <p class="autonumber" MadCap:autonum="0.2. ">test</p>
+        <p class="autonumber" MadCap:autonum="0.3. ">test</p>
+        <p class="autonumber" MadCap:autonum="0.4. ">test</p>
+    </body>
+</html>

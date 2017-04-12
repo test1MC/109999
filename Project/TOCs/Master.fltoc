@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/test TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="pageLayout"
+    StartSection="false"
+    PageLayout="/Content/Resources/Page Layouts/Test PL.flpgl"
+    PageType="normal" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Getting Started/Getting Started.htm"
+    BreakType="pageLayout"
+    AutoEndOnLeftPage="enabled"
+    StartSection="false">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Getting Started/Basic Steps.htm"
+      BreakType="pageLayout"
+      StartSection="false"
+      AutoEndOnLeftPage="enabled" />
+  </TocEntry>
+</CatapultToc>
